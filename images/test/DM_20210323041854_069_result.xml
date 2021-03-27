@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>DM_20210323041854_069_result.png</filename>
+	<path>C:\TF_object_detection\models\research\object_detection\hand_detector\images\test\DM_20210323041854_069_result.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>With Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>2</ymin>
+			<xmax>486</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>
