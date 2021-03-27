@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DM_20210323042836_014_result.png</filename>
+	<path>C:\TF_object_detection\models\research\object_detection\hand_detector\images\train\DM_20210323042836_014_result.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>722</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>3</ymin>
+			<xmax>481</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>
